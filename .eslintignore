@@ -1,0 +1,8 @@
+# Ignore configs and build folders
+postcss.config.js
+postcss.config.mjs
+tailwind.config.js
+next.config.js
+node_modules
+dist
+build

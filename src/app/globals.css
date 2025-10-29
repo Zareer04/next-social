@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* body {
+    @apply bg-black bg-gradient-to-r from-blue-500 via-purple-500 to-indigo-500;
+} */
+
+.header {
+    @apply text-3xl flex font-bold mt-3 p-5 text-black;
+}
